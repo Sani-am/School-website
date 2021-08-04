@@ -1,0 +1,18 @@
+body{
+background-color:dimgray;
+color: white;
+font-family: cursive;
+text-align: center;
+
+}
+#schoool{
+border: 2px white solid;
+border-top-left-radius:25px;
+border-top-right-radius: 25px;
+}
+
+.PRI{
+border: 1px white inset;
+font-family: inherit;
+    font-size: 25px;
+}
